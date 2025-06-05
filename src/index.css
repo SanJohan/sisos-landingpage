@@ -3,31 +3,24 @@
 
 :root {
   font-family: 'Poppins', system-ui, sans-serif;
-  /* line-height: 1.5;
-  font-weight: 400; */
-
   color-scheme: light dark;
-  /* color: rgba(255, 255, 255, 0.87); */
   background-color: var(--color-original-background);
-  /* font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
   scroll-behavior: smooth;
 }
 
 
 @theme {
     --color-original-background: #100f1c;
-    --color-primary: #26C4F3;
-    --color-bacgkround: #0A0A0B;
+    --color-primary: #8488FF;
+    --color-bacgkround: #050616;
     --color-blue-background: #14142899;
     --color-navbar-border: #6464DC33;
-    --color-secondary: #A64DFF;
-    --color-muted-foreground: #A3A3A3;
+    --color-secondary: #1E2432;
+    --color-muted-foreground: #9BA9C1;
     --color-card-foredground: #FAFAFA;
-    --color-primary-foreground: #191A1E;
-    --color-accent-foreground :#FAFAFA;
+    --color-primary-foreground: #121423;
+    --color-accent-foreground :#F0F8FF;
+    --color-sisos-letter: rgb(132, 136, 255);
 
     
     /* Font */
