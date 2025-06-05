@@ -1,4 +1,5 @@
 
+import Benefits from './components/Benefits'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
 
@@ -10,6 +11,7 @@ function App() {
       <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-gray-100">
         <Navbar />
         <HeroSection />
+        <Benefits />
       </div>
       
       {/* <HeroSection />
