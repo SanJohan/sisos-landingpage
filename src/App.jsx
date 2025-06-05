@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Results from './components/Results'
 import Testimonials from './components/Testimonials'
 import Contact  from './components/Contact'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Results />
         <Testimonials />
         <Contact />
+        <Footer />
       </div>
       
       {/* <HeroSection />
