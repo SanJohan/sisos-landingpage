@@ -6,6 +6,8 @@
   color-scheme: light dark;
   background-color: var(--color-original-background);
   scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: hsl(244 100% 76% / .5) hsl(222.2 84% 4.9%);
 }
 
 
