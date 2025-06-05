@@ -2,6 +2,7 @@
 import Benefits from './components/Benefits'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
+import Results from './components/Results'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Navbar />
         <HeroSection />
         <Benefits />
+        <Results />
       </div>
       
       {/* <HeroSection />
