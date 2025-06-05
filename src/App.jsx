@@ -3,6 +3,7 @@ import Benefits from './components/Benefits'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
 import Results from './components/Results'
+import Testimonials from './components/Testimonials'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <HeroSection />
         <Benefits />
         <Results />
+        <Testimonials />
       </div>
       
       {/* <HeroSection />
